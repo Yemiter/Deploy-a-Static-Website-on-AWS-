@@ -1,3 +1,5 @@
+![Alt text](HTML.png)
+---
 # Project Title: Static Website Deployment on AWS
 
 ## Overview
